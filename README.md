@@ -1,4 +1,4 @@
-# python-api
+# Using Python for Extracting Data from API
 
 (python-api-challenge)
 
